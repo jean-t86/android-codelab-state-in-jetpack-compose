@@ -25,7 +25,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
 import com.codelabs.state.ui.StateCodelabTheme
-import com.codelabs.state.util.generateRandomTodoItem
 
 class TodoActivity : AppCompatActivity() {
 
